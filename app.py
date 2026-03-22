@@ -143,5 +143,3 @@ if st.button("🚀 Compare Documents", use_container_width=True):
 
     else:
         st.warning("⚠️ Please upload both files.")
-
-# streamlit run "c:\Users\agarw\OneDrive\Desktop\IRT\app.py"
